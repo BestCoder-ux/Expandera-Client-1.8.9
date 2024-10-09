@@ -1,7 +1,7 @@
-# Expandera Client 1.8.9
-## Minecraft 1.8.9 Cheat client
+## Expandera Client 1.8.9
+### Minecraft 1.8.9 Cheat client
 
-## Functions
+### Functions
 - Xray
 - Kill aura
 - Chest stealer
